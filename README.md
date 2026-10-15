@@ -75,4 +75,5 @@ The app uses an in-memory vector store. PDFs need to be processed again in a new
 
 ## Author
 
-Add your name and portfolio links here.
+Manisha Devadiga
+and portfolio links here.
